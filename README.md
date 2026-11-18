@@ -49,6 +49,10 @@ More projects on my portfolio: https://rifki.tech
 
 </div>
 
+## Contribution Snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/mrifki12/mrifki12/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" /></div>
+
 ## Contribution Graph
 
 <div align="center">
