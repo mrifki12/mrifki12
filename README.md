@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8643a,100:0b0b0c&height=180&section=header&text=Muhammad%20Rifki&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%" alt="Muhammad Rifki header" />
+<img src="assets/banner.png" width="100%" alt="Muhammad Rifki — Full Stack Web Developer" />
 
 <a href="https://rifki.tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=E8643A&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Building+pentatest.id+for+17+Schools;Laravel+%7C+Next.js+%7C+MySQL;BNSP+Certified+Junior+Web+Programmer" alt="Typing animation" /></a>
 
@@ -31,13 +31,10 @@
 
 ## Featured Projects
 
-| Project | Description |
-| --- | --- |
-| [POS Mobile Laundry](https://github.com/mrifki12/POS-Mobile-Laundry---Sistem-Kasir-Manajemen-Stok-Berbasis-Web) | Web-based point-of-sale system for laundry businesses: transactions, products, stock and reports in one system |
-| [QR Attendance](https://github.com/mrifki12/absensi-sekolah-qr) | School attendance system based on QR codes, built with PHP and MySQL |
-| [NutriVisionAI](https://github.com/mrifki12/nutrivision-skripsi) | Food nutrition estimation web app built with Flask and EfficientNetB0 |
-| Komvori Digital | Digital project featured on my portfolio |
-| Mie Jebew Taman Walet | Project featured on my portfolio |
+| <a href="https://github.com/mrifki12/POS-Mobile-Laundry---Sistem-Kasir-Manajemen-Stok-Berbasis-Web"><img src="assets/card-pos.png" width="100%" alt="POS Mobile Laundry" /></a> | <a href="https://github.com/mrifki12/absensi-sekolah-qr"><img src="assets/card-qr.png" width="100%" alt="QR Attendance" /></a> |
+| :---: | :---: |
+| <a href="https://github.com/mrifki12/nutrivision-skripsi"><img src="assets/card-nutrivision.png" width="100%" alt="NutriVisionAI" /></a> | <a href="https://rifki.tech"><img src="assets/card-komvori.png" width="100%" alt="Komvori Digital" /></a> |
+| <a href="https://rifki.tech"><img src="assets/card-miejebew.png" width="100%" alt="Mie Jebew Taman Walet" /></a> | |
 
 More projects on my portfolio: https://rifki.tech
 
